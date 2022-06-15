@@ -1,0 +1,4 @@
+sal
+arroz
+feijão
+carne
